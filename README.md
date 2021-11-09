@@ -1,2 +1,2 @@
-# TALLER-PYTHON
+# CARLOS PAJOY-PYTHON
 Taller diplomado python
